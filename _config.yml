@@ -1,0 +1,16 @@
+name: bytefuse
+description: a blog of FOSS guides 
+meta_description: "a blog of free and open source software guides"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://blog.bytefuse.net'
+google_analytics: 'UA-104176868-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'blog.bytefuse.net'
+author:         'berglh'
